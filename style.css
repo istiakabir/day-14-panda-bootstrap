@@ -1,0 +1,47 @@
+.panda-bg-color {
+    background-color: #FEEAE9;
+
+}
+
+.panda-text-color{
+    color: #FF136F;
+}
+
+.panda-btn-color {
+
+    width: 168px;
+    height: 52px;
+    background-image: linear-gradient(to left,#FF589B, #FF136F);
+}
+
+.watch-section{
+    width: 359px;
+    height: 120px;
+    background-image: linear-gradient(to bottom, #FF9C35, #FFD019);
+}
+.watch-section-two{
+    width: 359px;
+    height: 120px;
+    background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+}
+.watch-section-three{
+    width: 359px;
+    height: 120px;
+    background-image: linear-gradient(to bottom, #4289FF, #3F07F8);
+}
+
+.shoe-section{
+    border-radius: 20px;
+}
+
+.panda-btn-buy {
+
+    width: 120px;
+    height: 45px;
+    background-image: linear-gradient(to left,#FF589B, #FF136F);
+}
+
+.last-section{
+    background-color: #FFF2F1;
+}
+
